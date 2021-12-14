@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @sindotj
-- 👀 I’m interested in Linux, Windows administration
-- 🌱 I’m a lifetime learner
-- 💞️ I’m looking to collaborate on CICD & Cloud platforms
-- 📫 How to reach me ... Mail to sindotj@gmail.com
+- 👋 Hi, I’m Sindo.....You will never catch me singing....Obsessed with internet....Loves travelling
+- 📫 How to reach me ... sindotj@gmail.com
 
 <!---
 sindotj/sindotj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
